@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasecender",
+        "uuid": 15768290,
+        "checksum": "l0vlgp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
